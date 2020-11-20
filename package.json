@@ -1,0 +1,16 @@
+{
+   "name": "itte-2020",
+   "version": "0.0.0",
+   "description": "",
+   "main": "index.js",
+   "scripts": {
+      "start": "http-server"
+   },
+   "author": "Cole Gannon",
+   "license": "",
+   "devDependencies": {
+      "@coalpha/eslint-config": "^1.0.3",
+      "eslint": "^6.8.0",
+      "http-server": "^0.12.1"
+   }
+}

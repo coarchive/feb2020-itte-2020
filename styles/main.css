@@ -1,0 +1,19 @@
+html, body {
+   margin: 0;
+   height: 100%;
+   width: 100%;
+   overflow: hidden;
+}
+
+body {
+   background-color: black;
+}
+
+canvas {
+   image-rendering: crisp-edges;
+}
+
+@font-face {
+   font-family: "Cascadia Mono";
+   src: url("../res/CascadiaMono.ttf");
+}
